@@ -53,7 +53,7 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jonatan-esprella-lopez">
