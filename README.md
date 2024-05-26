@@ -61,3 +61,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonatan-esprella-lopez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=juicyfresh&no-bg=true" />
