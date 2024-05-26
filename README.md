@@ -63,7 +63,7 @@
 </p>
 <br>
 
-<center>
-  ### ---
+<section align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=juicyfresh&no-bg=true" />
-</center>
+</section>
