@@ -4,16 +4,39 @@
 <img src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+
 ## Sobre mi
 
-- ⭐ Diseñador Gráfico 
-- 📲 Desarrollador Web
+<table align="center">
+  <tr>
+    <td valign="center">
+      <ul> 
+        <li>⭐ Diseñador Gráfico</li>
+        <li>📲 Desarrollador Web</li>
+        <li>🏋🏻‍♀️ Entrenador de Fitness</li>
+      </ul>
+    </td>
+    <td valign="center">
+	    <a href="https://jonatanesprella.site/" target="_blank">
+      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
+	    </a>
+	    <a href="https://jonatanesprella.site/" target="_blank">
+      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
+	    </a>
+	    <a href="https://jonatanesprella.site/" target="_blank">
+      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
+	    </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## Proyectos *Personales*
 <table>
 <tr>
 <td width="50%">
+	
 <h3 align="center">Creacion de una Web de gimnasio</h3>
 <div align="center">
 <a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
@@ -70,12 +93,11 @@
 
 ## 🙋‍♀️ Contactame
 <p align="center">
-  <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  <a href="https://jonatanesprella.site/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	<a href="https://www.linkedin.com/in/jonatan-esprella-9320b71ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/aminadabjonatan.esprellalopez"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/aminadab.esprella/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCFM_SzHkfgsC9wxvBh4MLhg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
