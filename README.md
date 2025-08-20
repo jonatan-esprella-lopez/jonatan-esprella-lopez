@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Jonatan Esprella Lopez</a> 👋</h1>
+<h1 align="center">Hola!, <a href="">Bienvenido a mi Per</a> 👋</h1>
 </div>
-<img src="">
+<img src="https://i.ibb.co/qFFzMJg4/6338356.png" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
