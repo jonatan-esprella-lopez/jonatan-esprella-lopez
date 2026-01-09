@@ -1,103 +1,123 @@
 <div align="center">
-<h1 align="center">Hola!, <a href="">Bienvenido a mi Per</a> 👋</h1>
+  <h1>Hola 👋, soy <b>Jonatan Esprella</b></h1>
+  <h3>Diseñador Gráfico | Desarrollador Web | Entrenador Fitness</h3>
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-## Sobre mi
+---
+
+## 🚀 Sobre mí
 
 <table align="center">
   <tr>
-    <td valign="center">
-      <ul> 
-        <li>⭐ Diseñador Gráfico</li>
-        <li>📲 Desarrollador Web</li>
-        <li>🏋🏻‍♀️ Entrenador de Fitness</li>
+    <td valign="top" width="55%">
+      <ul>
+        <li>🎨 Diseñador Gráfico enfocado en identidad visual y contenido digital</li>
+        <li>💻 Desarrollador Web (Frontend y proyectos personales)</li>
+        <li>🏋🏻‍♂️ Entrenador de Fitness con enfoque en bienestar integral</li>
+        <li>📈 Apasionado por la tecnología, el diseño y el crecimiento personal</li>
       </ul>
     </td>
-    <td valign="center">
-	    <a href="https://jonatanesprella.site/" target="_blank">
-      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
-	    </a>
-	    <a href="https://jonatanesprella.site/" target="_blank">
-      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
-	    </a>
-	    <a href="https://jonatanesprella.site/" target="_blank">
-      		<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mo1-1RPPCSd54lH3fcOeOWM1wRHxEZ3C1A&s" width="125px"/>    
-	    </a>
+    <td valign="center" align="center" width="45%">
+      <a href="https://jonatanesprella.site/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="120"/>
+      </a>
+      <br><br>
+      <a href="https://jonatanesprella.site/" target="_blank">
+        🌐 Visita mi portafolio
+      </a>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-## Proyectos *Personales*
-<table>
-<tr>
-<td width="50%">
-	
-<h3 align="center">Creacion de una Web de gimnasio</h3>
-<div align="center">
-<a href="" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
-<p>
-<a href="" target="_blank">
-<img src="">
-</a>
-<a href="" target="_blank">
-<img src="">
-</a>
-</p>
-<p>...</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Aplicacion de cursos virtuales</h3>
-<div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt="Cursos virtuales"></a>
-<br>
-<p>
-<a href="" target="_blank">
-<img src="">
-</a>
-<a href="" target="_blank">
-<img src="">
-</a>
-</p>
-</p>...</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-                                                                                
-</div>
-<br>
-
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <a href="https://github.com/jonatan-esprella-lopez">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jonatan-esprella-lopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonatan-esprella-lopez&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma,photoshop,illustrator,github" />
+</p>
+
+---
+
+## 📂 Proyectos Personales
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏋️‍♂️ Web para Gimnasio</h3>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2069402/screenshots/16874243/media/7d03c4f4c0c8dc28b4cbdcba4ef0a57c.png" width="90%" alt="web gimnasio"/>
+</div>
+
+<p align="center">
+Plataforma web para gimnasios con enfoque moderno, diseño responsive y experiencia de usuario.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Plataforma de Cursos Virtuales</h3>
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2574702/screenshots/15175634/media/1d3f8cba2e51cda6b4f40e1d5c87b4d6.png" width="90%" alt="cursos virtuales"/>
+</div>
+
+<p align="center">
+Aplicación web para gestión y visualización de cursos online con diseño intuitivo.
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatan-esprella-lopez&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatan-esprella-lopez&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📬 Contáctame
+
+<p align="center">
+  <a href="https://jonatanesprella.site/">
+    <img src="https://img.icons8.com/bubbles/60/domain.png"/>
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.icons8.com/bubbles/60/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonatan-esprella-9320b71ab/">
+    <img src="https://img.icons8.com/bubbles/60/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/aminadab.esprella/">
+    <img src="https://img.icons8.com/bubbles/60/instagram.png"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCFM_SzHkfgsC9wxvBh4MLhg">
+    <img src="https://img.icons8.com/bubbles/60/youtube.png"/>
   </a>
 </p>
 
-<br>
+---
 
-<section align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=juicyfresh&no-bg=true" />
-</section>
-
-## 🙋‍♀️ Contactame
-<p align="center">
-  <a href="https://jonatanesprella.site/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/jonatan-esprella-9320b71ab/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/aminadabjonatan.esprellalopez"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/aminadab.esprella/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCFM_SzHkfgsC9wxvBh4MLhg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
+<div align="center">
+✨ Gracias por visitar mi perfil ✨  
+Siempre abierto a colaborar y crear proyectos increíbles 🚀
+</div>
