@@ -259,7 +259,7 @@ fitness:     Entrenador certificado — Bienestar integral
 ## 🏆 Logros de GitHub
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=tokyonight&no-frame=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/jonatan-esprella-lopez/jonatan-esprella-lopez/output/github-profile-trophy.svg"/>
 </div>
 
 ---
