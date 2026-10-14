@@ -1,0 +1,34 @@
+name: Generate GitHub Profile Trophy SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: jonatan-esprella-lopez
+          output_path: dist/github-profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: onedark
+
+      - name: Commit and push
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          commit_message: "chore: update github profile trophy"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
