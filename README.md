@@ -1,19 +1,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:c026d3&height=220&section=header&text=Jonatan%20Esprella&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Fitness%20Trainer&descAlignY=60&descSize=17&descColor=e9d5ff"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=80&lines=🚀+Construyendo+plataformas+digitales+desde+Bolivia;💡+TypeScript+%7C+NestJS+%7C+React+%7C+Full+Stack;🎨+Diseño+Gráfico+%26+Identidad+Visual;🏋️+Fitness+Group+International+—+FGI" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Construyendo+plataformas+digitales+desde+Bolivia+%F0%9F%9A%80;TypeScript+%7C+NestJS+%7C+React+%7C+Full+Stack+%F0%9F%92%A1;Dise%C3%B1ador+Gr%C3%A1fico+%26+Identidad+Visual+%F0%9F%8E%A8;Fitness+Group+International+%E2%80%94+FGI+%F0%9F%8F%8B%EF%B8%8F" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=👁️+Visitas+al+perfil&color=7c3aed&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=jonatan-esprella-lopez&label=Visitas+al+perfil&color=7c3aed&style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/jonatan-esprella-lopez?label=⭐+Seguidores&style=flat-square&color=2563eb&logo=github"/>
+  <img src="https://img.shields.io/github/followers/jonatan-esprella-lopez?label=Seguidores&style=flat-square&color=2563eb&logo=github&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/📍_Ubicación-Cochabamba%2C_Bolivia-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ubicacion-Cochabamba%2C%20Bolivia-059669?style=flat-square&logo=googlemaps&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/💼_Estado-Disponible_para_proyectos-22c55e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-22c55e?style=flat-square&logo=statuspal&logoColor=white"/>
 </p>
 
 ---
