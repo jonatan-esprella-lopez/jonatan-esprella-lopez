@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1e1b4b,100:7c3aed&height=210&section=header&text=Jonatan%20Esprella&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Graphic%20Designer%20%7C%20Fitness%20Trainer&descAlignY=62&descSize=17&descColor=c4b5fd"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=720&height=75&lines=Construyendo+plataformas+digitales+desde+Bolivia;TypeScript+%7C+NestJS+%7C+React+%7C+PostgreSQL;Dise%C3%B1ador+Gr%C3%A1fico+%26+Identidad+de+Marca;Fitness+Group+International+%E2%80%94+FGI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=A78BFA&hcenter=true&vCenter=true&multiline=true&width=720&height=75&lines=Construyendo+plataformas+digitales+desde+Bolivia;TypeScript+%7C+NestJS+%7C+React+%7C+PostgreSQL;Dise%C3%B1ador+Gr%C3%A1fico+%26+Identidad+de+Marca;Fitness+Group+International+%E2%80%94+FGI" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -251,7 +251,7 @@ fitness:     Entrenador certificado — Bienestar integral
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonatan-esprella-lopez&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonatan-esprella-lopez&theme=github_dark" alt="Activity Graph"/>
 </div>
 
 ---
