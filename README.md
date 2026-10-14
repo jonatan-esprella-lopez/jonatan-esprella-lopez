@@ -251,7 +251,7 @@ fitness:     Entrenador certificado — Bienestar integral
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonatan-esprella-lopez&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonatan-esprella-lopez&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1e1b4b&hide_border=true&radius=6" alt="Activity Graph"/>
 </div>
 
 ---
@@ -259,7 +259,7 @@ fitness:     Entrenador certificado — Bienestar integral
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=dark_lover&no-frame=true&row=1&column=7&margin-w=10"/>
 </div>
 
 ---
@@ -270,11 +270,11 @@ fitness:     Entrenador certificado — Bienestar integral
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonatan-esprella-lopez/jonatan-esprella-lopez/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonatan-esprella-lopez/jonatan-esprella-lopez/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jonatan-esprella-lopez/jonatan-esprella-lopez/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jonatan-esprella-lopez/jonatan-esprella-lopez/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
-> **Para activar la serpiente animada**, crea `.github/workflows/snake.yml` con el workflow de [Platane/snk](https://github.com/Platane/snk).
+> **Activa la serpiente:** crea el archivo `.github/workflows/snake.yml` que encontrarás junto a este README (incluido en la descarga).
 
 ---
 
