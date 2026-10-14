@@ -274,8 +274,6 @@ fitness:     Entrenador certificado — Bienestar integral
   </picture>
 </div>
 
-> **Activa la serpiente:** crea el archivo `.github/workflows/snake.yml` que encontrarás junto a este README (incluido en la descarga).
-
 ---
 
 ## 📬 Conecta Conmigo
