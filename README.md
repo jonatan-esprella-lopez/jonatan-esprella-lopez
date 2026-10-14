@@ -176,7 +176,7 @@ fitness:     Entrenador certificado — Bienestar integral
   </a>
 </div>
 <br>
-<p align="center">
+<p align}"center">
   API robusta para gestión de productos, insumos y clientes potenciales. Diseñado para <strong>pequeñas y medianas empresas</strong> de Bolivia.
 </p>
 <p align="center">
@@ -245,13 +245,13 @@ fitness:     Entrenador certificado — Bienestar integral
 </div>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=jonatan-esprella-lopez&theme=tokyonight&hide_border=true&background=0D1117&stroke=1e1b4b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&dates=6b7280" alt="GitHub Streak"/>
+  <img width="80%" src="https://streak-stats.demolab.com?user=jonatan-esprella-lopez&theme=tokyonight&hide_border=true&background=0D1117&stroke=1e1b4b&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&dates=6b7280" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonatan-esprella-lopez&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1e1b4b&hide_border=true&radius=6" alt="Activity Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jonatan-esprella-lopez&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -259,7 +259,7 @@ fitness:     Entrenador certificado — Bienestar integral
 ## 🏆 Logros de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=dark_lover&no-frame=true&row=1&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jonatan-esprella-lopez&theme=onedark&no-frame=true&row=1&column=7&margin-w=10"/>
 </div>
 
 ---
